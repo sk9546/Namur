@@ -24,3 +24,4 @@ dist-ssr
 *.sln
 *.sw?
 api-server/serviceAccountKey.json
+api-server/serviceAccountKey.json1
